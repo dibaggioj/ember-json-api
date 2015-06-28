@@ -15,8 +15,8 @@
     "tests"
   ],
   "dependencies": {
-    "ember-data": "v1.0.0-beta.19",
-    "ember": "v1.12.0",
+    "ember-data": "~1.13.4",
+    "ember": "v1.12.1",
     "handlebars": "v2.0.0",
     "loader.js": "stefanpenner/loader.js#1.0.1"
   },
